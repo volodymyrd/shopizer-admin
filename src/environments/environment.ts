@@ -22,10 +22,11 @@ export const environment = {
     shippingApi: 'http://localhost:9090/shipping/api/v1',
     client: {
         language: {
-            default: 'en',
+            default: 'uk',
             array: [
-                'fr',
-                'en'
+                'uk',
+                'en',
+                'pl',
             ],
         },
     }
