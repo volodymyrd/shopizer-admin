@@ -178,6 +178,7 @@
     "STORE_INFORMATION": "Store information",
     "INFORMATION_TEXT": "Shop settings used for various functionality such us and store address. Various details also used for shipping costs and displayed in product details.",
     "MERCHANT_STORE": "Merchant store",
+    "MERCHANT_ADMIN_INFO": "Merchant administrator information",
     "SEARCH": "Search a store"
   },
   "STORE_LANDING": {
@@ -509,6 +510,7 @@
     "SELECT_LANGUAGE": "Select language",
     "RESET": "Reset",
     "PASSWORD": "Password",
+    "REPEAT_PASSWORD": "Repeat password",
     "SAVE": "Save",
     "UPDATE": "Update",
     "REMOVE": "Remove",

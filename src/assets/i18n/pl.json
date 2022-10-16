@@ -178,6 +178,7 @@
     "STORE_INFORMATION": "Informacje o sklepie",
     "INFORMATION_TEXT": "Ustawienia sklepu wykorzystywane do różnych funkcjonalności, takich jak nas i adres sklepu. Różne szczegóły również wykorzystywane do kosztów wysyłki i wyświetlane w szczegółach produktu.",
     "MERCHANT_STORE": "Sklep handlarski",
+    "MERCHANT_ADMIN_INFO": "Informacje administratora sprzedawcy",
     "SEARCH": "Szukaj w sklepie"
   },
   "STORE_LANDING": {
@@ -509,6 +510,7 @@
     "SELECT_LANGUAGE": "Wybierz język",
     "RESET": "Resetuj",
     "PASSWORD": "Hasło",
+    "REPEAT_PASSWORD": "Powtórz hasło",
     "SAVE": "Zapisać",
     "UPDATE": "Aktualizacja",
     "REMOVE": "Usuń",

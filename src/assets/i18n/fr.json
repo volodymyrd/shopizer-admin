@@ -178,6 +178,7 @@
         "STORE_INFORMATION": "Informations sur le magasin",
         "INFORMATION_TEXT": "Paramètres de boutique utilisés pour diverses fonctionnalités telles que nous et l'adresse du magasin. Différents détails sont également utilisés pour les frais d'expédition et affichés dans les détails du produit.",
         "MERCHANT_STORE": "Marchand",
+        "MERCHANT_ADMIN_INFO": "Informations sur l'administrateur du marchand",
         "SEARCH": "Rechercher"
     },
     "STORE_LANDING": {
@@ -509,6 +510,7 @@
         "SELECT_LANGUAGE": "Sélectionnez la langue",
         "RESET": "Réinitialiser",
         "PASSWORD": "mot de passe",
+        "REPEAT_PASSWORD": "Répéter le mot de passe",
         "SAVE": "Sauvegarder",
         "UPDATE": "Mise à jour",
         "REMOVE": "Supprimer",

@@ -49,7 +49,7 @@ export class RegisterComponent implements OnInit {
     private location: Location,
     private platformLocation: PlatformLocation
   ) {
-    this.configService.getListOfCountries()
+    this.configService.getListOfCountriesByLanguage(navigator.language)
       .subscribe(data => {
         this.countries = data;
       }, error => {
