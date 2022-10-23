@@ -182,6 +182,20 @@
           </div>
         </div>
 
+        <div style="width:100%;">
+          <span class="txt1 p-b-11">
+            {{ 'COMMON.DEFAULT_LANGUAGE' | translate }}
+          </span>
+          <div class="validate-input m-b-12">
+            <nb-select class="select_fields" [(ngModel)]="user.defaultLang" name="defaultLang"
+                       placeholder="{{ 'COMMON.DEFAULT_LANGUAGE' | translate }}" required>
+              <nb-option *ngFor="let language of languages" [value]="language.code">
+                {{ ('LANG.'+language.code) | translate }}
+              </nb-option>
+            </nb-select>
+          </div>
+        </div>
+
         <!-- </div> -->
         <!-- </div> -->
 
