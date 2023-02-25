@@ -61,12 +61,12 @@ export class StoreService {
   }
 
   updatePageContent(id, content: any): Observable<any> {
-    return this.crudService.put(`/v1/private/content/${id}`, content);
+    return this.crudService.put(`/v1/private/content/page/${id}`, content);
   }
 
   createPageContent(content: any, storeCode: string) : Observable<any> {
 
-    return this.crudService.postWithStoreParam(`/v1/private/content`, content, storeCode);
+    return this.crudService.postWithStoreParam(`/v1/private/content/page`, content, storeCode);
   }
 
   // end PAGE CONTENT
